@@ -1,4 +1,4 @@
-// ChipInput.tsx
+
 
 import React, { useState, useRef, useEffect, KeyboardEvent, ChangeEvent } from 'react';
 import './ChipInput.css';
